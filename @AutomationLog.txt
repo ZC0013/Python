@@ -1,0 +1,2 @@
+2020-12-09 17:23:37.273 wellplanOperator.py[597] holeSectionItemProcess -> Find Control Timeout: {ClassName: 'TextBox', AutomationId: 'HorizontalTextBox_CASINGITEM_CD_HOLE_SECT_LENGTH', ControlType: EditControl}
+2020-12-09 17:23:47.644 pydevd_xml.py[309] var_to_xml -> Find Control Timeout: {ClassName: 'TextBox', AutomationId: 'HorizontalTextBox_CASINGITEM_CD_HOLE_SECT_LENGTH', ControlType: EditControl}
